@@ -18,13 +18,13 @@ variable "network_name" {
 variable "runtime_template_name" {
   description = "Name of the Colab Enterprise runtime template"
   type        = string
-  default     = "default"
+  default     = "masterclass"
 }
 
 variable "runtime_template_display_name" {
   description = "Display Name of the Colab Enterprise runtime template"
   type        = string
-  default     = "Default"
+  default     = "Masterclass"
 }
 
 variable "machine_type" {
