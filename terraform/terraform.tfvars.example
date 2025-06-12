@@ -1,0 +1,6 @@
+project_id = "your-gcp-project-id" # Change this to your GCP project ID
+region     = "europe-west1"  # Change this to your preferred region
+
+runtime_owner = "the email of the user who will own the runtime" # Change this to your GCP user email
+
+notebook_bucket_name = "a_unique_name_for_your_notebook_bucket" # Change this to a unique name for your notebook bucket
