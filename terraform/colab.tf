@@ -36,7 +36,6 @@ resource "google_colab_notebook_execution" "lab_setup_execution" {
   depends_on = [
     google_colab_runtime_template.default_runtime_template,
     google_storage_bucket.notebook_bucket,
-    google_storage_bucket_object.lab_setup_notebook,
-    google_bigquery_connection.connection
+    google_storage_bucket_object.lab_setup_notebook
   ]
 }
