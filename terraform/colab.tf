@@ -14,8 +14,7 @@ resource "google_colab_runtime_template" "default_runtime_template" {
   depends_on = [
     google_project_service.compute_api,
     google_project_service.aiplatform_api,
-    google_project_service.notebooks_api,
-    google_compute_network.my_network
+    google_project_service.notebooks_api
   ]
 }
 

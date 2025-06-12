@@ -15,6 +15,12 @@ variable "network_name" {
   default     = "default"
 }
 
+variable "create_network" {
+  description = "Whether to create a new VPC network or use an existing one"
+  type        = bool
+  default     = true
+}
+
 variable "runtime_template_name" {
   description = "Name of the Colab Enterprise runtime template"
   type        = string
