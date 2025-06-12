@@ -12,13 +12,7 @@ variable "region" {
 variable "network_name" {
   description = "Name of the VPC network"
   type        = string
-  default     = "default"
-}
-
-variable "create_network" {
-  description = "Whether to create a new VPC network or use an existing one"
-  type        = bool
-  default     = true
+  default     = "masterclass"
 }
 
 variable "runtime_template_name" {
