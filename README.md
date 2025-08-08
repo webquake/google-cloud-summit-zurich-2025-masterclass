@@ -1,8 +1,8 @@
 # Data Lakehouse Mastery Masterclass
 
-## Google Cloud Summit Nord 2025 - Düsseldorf, DACH Region
+## Google Cloud Summit  2025 - Zürich
 
-Welcome to the *Data Lakehouse Mastery: Unleashing the Potential of Generative AI on your data* masterclass repository! This project contains all the necessary resources, code examples, and setup instructions for participants of the Data Analytics Masterclass taking place at the Google Cloud Summit Nord 2025 in Düsseldorf.
+Welcome to the *Data Lakehouse Mastery: Unleashing the Potential of Generative AI on your data* masterclass repository! This project contains all the necessary resources, code examples, and setup instructions for participants of the Data Analytics Masterclass taking place at the Google Cloud Summit 2025 in Zürich.
 
 ## Masterclass Overview
 
