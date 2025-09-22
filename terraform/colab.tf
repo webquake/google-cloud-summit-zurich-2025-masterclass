@@ -8,7 +8,8 @@ resource "google_colab_runtime_template" "default_runtime_template" {
   }
 
   network_spec {
-    enable_internet_access = true
+   network                = google_compute_network.my_network.id
+   enable_internet_access = true
   }
 
   depends_on = [
