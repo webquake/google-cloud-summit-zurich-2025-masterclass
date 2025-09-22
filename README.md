@@ -45,7 +45,7 @@ Import the Colab / Jupyter Notebooks from the `notebooks` directory into your Bi
 ![BigQuery Studio Notebooks](docs/screenshot_masterclass_1.png)
 
 3. Select "URL" and paste the URL of the first notebook: 
-https://raw.githubusercontent.com/SaschaDittmann/google-cloud-summit-nord-2025-masterclass/refs/heads/master/notebooks/Lab%201%20-%20Multimodal%20Data%20Enrichment.ipynb
+https://raw.githubusercontent.com/webquake/google-cloud-summit-zurich-2025-masterclass/refs/heads/master/notebooks/Lab%201%20-%20Multimodal%20Data%20Enrichment.ipynb
 
 4. Select the region "europe-west1"
 
@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/SaschaDittmann/google-cloud-summit-nord-2025-m
 ![BigQuery Studio Notebooks](docs/screenshot_masterclass_2.png)
 
 6. Repeat the process for the second notebook:
-https://raw.githubusercontent.com/SaschaDittmann/google-cloud-summit-nord-2025-masterclass/refs/heads/master/notebooks/Lab%202%20-%20Building%20a%20SQL-Powered%20RAG%20Pipeline.ipynb
+https://raw.githubusercontent.com/webquake/google-cloud-summit-zurich-2025-masterclass/refs/heads/master/notebooks/Lab%202%20-%20Building%20a%20SQL-Powered%20RAG%20Pipeline.ipynb
 
 ## Workshop Agenda
 
