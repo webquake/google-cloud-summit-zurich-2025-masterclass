@@ -22,8 +22,8 @@ Before attending the masterclass, please ensure you have:
 ### 1. Clone this Repository
 
 ```bash
-git clone https://github.com/SaschaDittmann/google-cloud-summit-nord-2025-masterclass.git
-cd google-cloud-summit-nord-2025-masterclass
+git clone https://github.com/webquake/google-cloud-summit-zurich-2025-masterclass.git
+cd google-cloud-summit-zurich-2025-masterclass
 ```
 
 ### 2. Set Up Google Cloud Environment
