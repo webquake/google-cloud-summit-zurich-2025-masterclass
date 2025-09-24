@@ -23,7 +23,7 @@ Before attending the masterclass, please ensure you have:
 
 - [Compute Engine API](https://console.cloud.google.com/marketplace/product/google/compute.googleapis.com)
 - [Cloud Resource Manager API](https://console.cloud.google.com/marketplace/product/google/cloudresourcemanager.googleapis.com)
-- Colab Enterprise by following these instructions on how to [Connect to a runtime with end-user credentials enabled](https://cloud.google.com/colab/docs/run-code-adc#connect)
+- for Colab Enterprise [Connect to a runtime with end-user credentials enabled](https://cloud.google.com/colab/docs/run-code-adc#connect)
 
 ### 1. Clone this Repository
 
