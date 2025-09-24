@@ -19,6 +19,11 @@ Before attending the masterclass, please ensure you have:
 
 ## Setup Instructions
 
+### 0. Ensure APIs are enabled
+
+- [Compute Engine API](https://console.cloud.google.com/marketplace/product/google/compute.googleapis.com)
+- [Cloud Resource Manager API](https://console.cloud.google.com/marketplace/product/google/cloudresourcemanager.googleapis.com)
+
 ### 1. Clone this Repository
 
 ```bash
